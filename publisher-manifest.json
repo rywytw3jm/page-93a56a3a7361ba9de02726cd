@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "60adff3aeda09ccedba9b2f5",
+  "owner": "rywytw3jm",
+  "repo": "page-93a56a3a7361ba9de02726cd",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "93a56a3a7361ba9de02726cd",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "0a81ee576f559dea3b94bd46071fcf15706dd8f03bce33917856e72ff2b921b4",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供安全稳定的网络加速服务，助力畅享高速上网。官方客户端下载入口。",
+          "AI_DESCRIPTION": "魔戒VPN提供安全稳定的网络加速服务，助力畅享高速上网。官方客户端下载入口。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    line-height: 1.6;\n    color: #333;\n    background-color: #f8f5f0;\n    margin: 0;\n    padding: 0;\n  }\n  header {\n    background: white;\n    box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n    position: sticky;\n    top: 0;\n    z-index: 10;\n  }\n  nav {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 1rem 1rem;\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n  }\n  .logo {\n    color: #e06c4c;\n    font-weight: bold;\n    text-decoration: none;\n    font-size: 1.4rem;\n  }\n  h1 {\n    color: #e06c4c;\n    font-size: 2.2rem;\n    margin-bottom: 0.5rem;\n  }\n  main {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 2rem 1rem;\n  }\n  .hero {\n    text-align: center;\n    margin-bottom: 3rem;\n  }\n  .steps {\n    display: flex;\n    flex-direction: column;\n    gap: 2rem;\n    margin-bottom: 3rem;\n  }\n  .step {\n    display: flex;\n    gap: 1.5rem;\n    align-items: flex-start;\n  }\n  .step-number {\n    background: #e06c4c;\n    color: white;\n    width: 40px;\n    height: 40px;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n    font-weight: bold;\n    font-size: 1.3rem;\n  }\n  .step-content {\n    flex: 1;\n  }\n  .plans-section {\n    margin-bottom: 3rem;\n  }\n  .faq-section {\n    margin-bottom: 3rem;\n  }\n  details {\n    background: white;\n    padding: 1.25rem;\n    margin-bottom: 1rem;\n    border-radius: 8px;\n    box-shadow: 0 1px 4px rgba(0,0,0,0.06);\n  }\n  summary {\n    font-weight: bold;\n    cursor: pointer;\n    color: #e06c4c;\n    font-size: 1.1rem;\n  }\n  footer {\n    background: #2c3e50;\n    color: white;\n    text-align: center;\n    padding: 2rem;\n  }\n  @media (max-width: 768px) {\n    body { font-size: 16px; }\n    .step { flex-direction: column; gap: 1rem; }\n    .step-number { width: 36px; height: 36px; font-size: 1.2rem; }\n  }\n</style>\n\n\n<header>\n  <nav>\n    <a href=\"#\" class=\"logo\">魔戒VPN</a>\n    <ul>\n      <li><a href=\"#intro\">首页</a></li>\n      <li><a href=\"#steps\">使用步骤</a></li>\n      <li><a href=\"#plans\">套餐</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </nav>\n</header>\n<main>\n  <section class=\"hero\">\n    <h1>魔戒 VPN</h1>\n    <h2>安全稳定的网络加速器</h2>\n    <p>魔戒VPN为您提供优质的网络加速服务，助力您畅享无忧上网体验。</p>\n  </section>\n\n  <section id=\"intro\">\n    <h2>品牌简介</h2>\n    <p>魔戒VPN是一款专注提供安全、快速网络加速服务的品牌。无论您是个人用户还是企业团队，都能通过魔戒VPN获得稳定高效的网络环境。</p>\n    <p>我们的服务覆盖全球节点，优化线路，确保低延迟、高速度。</p>\n  </section>\n\n  <section id=\"steps\" class=\"steps\">\n    <h2>使用魔戒VPN的步骤</h2>\n    <div class=\"step\">\n      <div class=\"step-number\">1</div>\n      <div class=\"step-content\">\n        <h3>访问官网下载客户端</h3>\n        <p>前往官方下载页面，安全下载适用于您设备的魔戒VPN客户端。</p>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"step-number\">2</div>\n      <div class=\"step-content\">\n        <h3>注册账号并选择套餐</h3>\n        <p>完成注册后，根据您的需求选择适合的套餐。</p>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"step-number\">3</div>\n      <div class=\"step-content\">\n        <h3>订阅并激活</h3>\n        <p>支付后立即激活您的账号，获取订阅链接。</p>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"step-number\">4</div>\n      <div class=\"step-content\">\n        <h3>连接节点</h3>\n        <p>在客户端中选择节点，享受加速后的网络体验。</p>\n      </div>\n    </div>\n    <div class=\"step\">\n      <div class=\"step-number\">5</div>\n      <div class=\"step-content\">\n        <h3>开始使用</h3>\n        <p>开启VPN模式，畅享高速稳定上网。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans-section\">\n    <h2>我们的套餐方案</h2>\n    <div>{{PLANS_HTML}}</div>\n    <p>更多详情请访问官网获取。</p>\n  </section>\n\n  <section id=\"faq\" class=\"faq-section\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>魔戒VPN如何加速网络？</summary>\n      <p>魔戒VPN通过优化全球节点路由和智能线路选择，帮助您获得更高的速度和更低的延迟。</p>\n    </details>\n    <details>\n      <summary>支持哪些设备？</summary>\n      <p>魔戒VPN支持多种操作系统和设备，包括Windows、macOS、iOS、Android和路由器等。</p>\n    </details>\n    <details>\n      <summary>如何下载客户端？</summary>\n      <p>在官网下载页面，您可以找到适用于所有主流平台的官方客户端下载。</p>\n    </details>\n    <details>\n      <summary>如何订阅服务？</summary>\n      <p>完成注册和支付后，您将获得唯一的订阅链接，用于激活客户端。</p>\n    </details>\n    <details>\n      <summary>支持流媒体解锁吗？</summary>\n      <p>是的，魔戒VPN提供多种流媒体平台的解锁服务。</p>\n    </details>\n    <details>\n      <summary>如何联系客服？</summary>\n      <p>我们提供7x24在线客服支持，优先工单处理。</p>\n    </details>\n  </section>\n\n  <section>\n    <h2>合作伙伴</h2>\n    <div>{{CLIENTS_HTML}}</div>\n  </section>\n</main>\n\n<footer>\n  <p>© 2024 魔戒VPN 保留所有权利</p>\n</footer>\n\n",
+          "hash": "bd1b70348827e446abb28cec6119085f03330e845c5f28da756d4031aa3d64b6",
+          "seo": {
+            "title": "魔戒VPN - 安全稳定的网络加速器 | 官网下载",
+            "keywords": "魔戒VPN,魔戒机场,网络加速,客户端下载,机场订阅",
+            "description": "魔戒VPN提供安全稳定的网络加速服务，助力畅享高速上网。官方客户端下载入口。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fahrdfh.cn",
+    "host": "web.fahrdfh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "fahrdfh.cn",
+      "url": "https://fahrdfh.cn/",
+      "label": "fnf",
+      "apex": "fahrdfh.cn",
+      "kind": null,
+      "identity": "qkdt9ecd6c/page-d849b8bf99a2b3fd4c5ef49d"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "826b44b892fa94e1c5a16fc5083a61869639eedc58799949e041a83d3c0fc4f5",
+    "sitemap.xml": "ca24a75d6492af5c00af4fc1f0dc7e250698a6e9436df1088f251fcc5d121135",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ebd266d1413616fb3af6705eb7ae3da1fbf330355cd681f2bf0a79dd05181398",
+    "robots.txt": "9b3a77b1397a0f6b66d8bdc60527dffeea86a267be337931bf32e9ba035582cb",
+    "c8751b0bcbaab62f45a7a69be7576cf0.txt": "3e2a329192851ff8449dcd68dcc092f52d6327efdda0b458bd1f8db26e8530b0"
+  },
+  "revision": "c376f5546db48307988c3439f8c0c4bcd96ff7e751873e46980bbb8945617dff"
+}
